@@ -41,7 +41,7 @@ for (i in 1:561){
 }
 musigma<-data[,Diff]
 
-###############  Q3. & Q4.  Measuring mean and standard deviation   ##############
+###############  Q3. & Q4.  Defining activity and variables   ##############
 ##Combining the subject dataset
 subject<-rbind(subtrain,subtest)
   names(subject)<-"Subject"
