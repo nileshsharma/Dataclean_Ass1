@@ -1,4 +1,5 @@
 The repo consists of three files:
+
 1. run_analysis.R:
 	Consists of the code to clean the dataset. The code:
 	a. Downloads the dataset from the given URL
